@@ -1,5 +1,5 @@
 # Kaggle-Titanic-Dataset-Prepared
-In this repo you will find a prepared google collab notebook, for Deep and Machine Learning models, to solve Kaggle titanic competition, dataset is fine tuned, cleansed, and enhanced
+In this repo you will find a prepared google collab notebook, for Deep and Machine Learning models, to solve Kaggle titanic competition, dataset is cleansed, and engineered, additionally I have had put it through feature engineering, to reduce dimensionality, and due to the low amount of data this will is crucial, given proper engineering conditions. For further knowledge on how features were transformed see .ipynb notebook.
 
 How to use it?
 It is very simple, lest you have google collab, because in such case, you only need to download the .ipynb file and run it, but otherwise
