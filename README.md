@@ -3,9 +3,9 @@
 This repository contains a fully prepared Google Colab notebook for solving the classic **Kaggle Titanic survival prediction** task using both Deep Learning and Machine Learning models.
 
 The dataset has been thoroughly:
-- 🧹 Cleaned
-- 🧠 Engineered
-- 🔍 Optimized through dimensionality reduction
+- Cleaned
+- Engineered
+- Optimized through dimensionality reduction
 
 Due to the relatively small size of the dataset, feature engineering and simplification were essential to ensure model generalization and avoid overfitting.
 
@@ -13,16 +13,16 @@ For detailed information on preprocessing, transformations, and feature engineer
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### ✅ Option 1: Google Colab (most preferred option)
+### Option 1: Google Colab (most preferred option)
 
 The easiest way to run the notebook is via [Google Colab](https://colab.research.google.com/):
 
 1. Download or upload `Kaggle_Titanic_Notebook.ipynb` to Colab.
 2. Run all cells – all dependencies and steps are Colab-compatible.
 
-### ✅ Option 2: Local Environment (Anaconda, Jupyter, or PyCharm)
+### Option 2: Local Environment (Anaconda, Jupyter, or PyCharm)
 
 1. Install the required libraries (see below).
 2. Open the notebook in Jupyter or your preferred environment.
@@ -30,7 +30,7 @@ The easiest way to run the notebook is via [Google Colab](https://colab.research
 
 ---
 
-## 🔧 Requirements lest you choose local environment
+## Requirements lest you choose local environment
 
 1. You need to install python most preferably 3.10
 2. Then via pip install -r requirements.txt you must install the requirements (for your convenience the best choice would be miniconda).
